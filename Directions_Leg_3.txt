@@ -1,0 +1,435 @@
+Trip duration: 1 hrs 40 min 
+Trip length: 56 km (35.0 miles)
+
+
+(40.4415086, -80.00900089999999)
+Head south
+0.2 mi
+Keep left, follow signs for Downtown/Pittsburgh
+0.2 mi
+Continue onto Fort Pitt Blvd
+325 ft
+Make a U-turn
+0.2 mi
+Take the ramp on the left to I-279
+0.3 mi
+Continue onto I-279
+0.2 mi
+Take the exit on the left toward Reedsdale St
+0.1 mi
+Keep left to continue on Exit 1B, follow signs for North Shore and merge onto Reedsdale St
+0.5 mi
+Turn left at the 1st cross street onto Allegheny Ave
+466 ft
+Continue onto N Shore Dr
+0.2 mi
+
+(40.4450795, -80.01472000000001)
+Head west on N Shore Dr toward North Shore Trail
+0.2 mi
+Continue onto Allegheny Ave
+0.2 mi
+Turn right onto Ridge Ave
+0.4 mi
+Turn right to stay on Ridge Ave
+351 ft
+
+(40.4511429, -80.01048639999999)
+Head west on Ridge Ave
+351 ft
+Turn right to stay on Ridge Ave
+351 ft
+
+(40.4516114, -80.0106677)
+Head west on Ridge Ave toward W Ohio St
+112 ft
+Ridge Ave turns slightly right and becomes W Ohio St
+Destination will be on the right
+0.1 mi
+
+(40.4523765, -80.01321009999998)
+Head west on W Ohio St toward Brighton Rd
+223 ft
+Turn right onto Brighton Rd
+0.1 mi
+Turn left onto W North Ave
+Destination will be on the left
+30 ft
+
+(40.4539617, -80.01465339999999)
+Head east on W North Ave toward Brighton Rd
+30 ft
+Turn left onto Brighton Rd
+0.2 mi
+Turn left onto Pennsylvania Ave
+0.1 mi
+
+(40.4556081, -80.01796890000003)
+Head west on Pennsylvania Ave toward Allegheny Ave
+0.1 mi
+Turn right at the 1st cross street onto Allegheny Ave
+0.1 mi
+Turn left onto N Franklin St
+0.1 mi
+Turn right onto Sedgwick St
+0.1 mi
+Continue onto Columbus Ave
+0.1 mi
+Turn right toward Columbus Ave
+46 ft
+Turn right onto Columbus Ave
+482 ft
+
+(40.4585371, -80.02373190000003)
+Head northeast on Columbus Ave toward California Ave
+118 ft
+Turn left onto California Ave
+0.4 mi
+Turn left onto the U.S. 19 S ramp to Pennsylvania 65 S
+325 ft
+
+(40.4618595, -80.03117750000001)
+Head southwest
+305 ft
+Keep right, follow signs for Beaver Avenue and merge onto Beaver Ave
+0.3 mi
+Slight left toward Chateau St
+374 ft
+Slight left onto Chateau St
+433 ft
+Take the PA-65 N ramp on the left
+190 ft
+Keep right at the fork, follow signs for US-19 N
+0.3 mi
+Keep right, follow signs for California Ave and merge onto California Ave
+Destination will be on the left
+0.9 mi
+
+(40.4716696, -80.036765)
+Head northwest on California Ave toward Bainton St
+0.3 mi
+Turn right onto Antrim St
+0.2 mi
+Turn right onto McClure Ave
+390 ft
+Turn left onto Woods Run Ave
+Destination will be on the left
+0.8 mi
+
+(40.4817606, -80.0256119)
+Head south on Woods Run Ave toward Rodney St
+0.6 mi
+Turn right onto Brighton Rd
+0.1 mi
+Turn left at the 1st cross street onto Harbison St
+430 ft
+Turn left to stay on Harbison St
+0.1 mi
+Turn left onto Shadeland Ave
+Destination will be on the left
+0.1 mi
+
+(40.47597469999999, -80.03278569999998)
+Head northwest on Shadeland Ave toward Stokes Way
+0.5 mi
+Slight left onto Brighton Rd
+0.1 mi
+Turn left onto Benton Ave
+0.2 mi
+Benton Ave turns slightly right and becomes California Ave
+0.4 mi
+Continue onto Lincoln Ave
+Destination will be on the left
+125 ft
+
+(40.4880161, -80.04568979999999)
+Head southeast on Lincoln Ave
+125 ft
+Continue onto California Ave
+0.4 mi
+Turn right to stay on California Ave
+0.2 mi
+Slight right onto California Ave/Termon Ave
+36 ft
+Turn left onto California Ave
+213 ft
+Turn right onto Verner Ave
+Destination will be on the right
+289 ft
+
+(40.4813207, -80.04250150000001)
+Head east on Verner Ave toward Verner Ct
+289 ft
+Turn left onto California Ave
+213 ft
+Continue straight onto Termon Ave
+0.3 mi
+Turn right onto Wilksboro Ave
+0.1 mi
+
+(40.485304, -80.04576370000001)
+Head south on Wilksboro Ave toward Stonelea St
+0.1 mi
+Turn left onto Termon Ave
+417 ft
+Turn right onto Millerton Ave
+0.1 mi
+Turn right onto Ohio River Blvd
+Destination will be on the left
+0.3 mi
+
+(40.4842527, -80.05057440000002)
+Head southeast on Ohio River Blvd toward Millerton Ave
+Destination will be on the right
+0.4 mi
+
+(40.47999129999999, -80.04418190000001)
+Head southeast on Ohio River Blvd
+420 ft
+Turn right onto McKees Rocks Bridge
+Destination will be on the right
+0.3 mi
+
+(40.4770603, -80.04845119999999)
+Head east on McKees Rocks Bridge
+0.3 mi
+Turn right onto PA-65 S (signs for Pennsylvania 65 S/Pittsburgh)
+Destination will be on the left
+0.2 mi
+
+(40.4759987, -80.04086050000001)
+Head southeast on PA-65 S
+Destination will be on the left
+0.4 mi
+
+(40.4715651, -80.03763170000002)
+Head southeast on PA-65 S
+1.1 mi
+Continue onto PA-65 S/US-19 S
+0.4 mi
+Exit onto US-19 S/West End Bridge toward PA-51
+Destination will be on the left
+0.4 mi
+
+(40.446481, -80.02698509999999)
+Head south on West End Bridge toward Three Rivers Heritage Trail
+0.2 mi
+Turn right onto Steuben St
+0.2 mi
+Turn left onto Short St
+Destination will be on the left
+157 ft
+
+(40.44311130000001, -80.03079249999996)
+Head south on Short St
+98 ft
+Slight right onto S Main St
+0.2 mi
+Turn right onto Alexander St
+322 ft
+Turn left onto Steuben St
+0.2 mi
+Turn right onto Chartiers Ave
+1.3 mi
+Turn right to stay on Chartiers Ave
+112 ft
+
+(40.452909, -80.05453390000002)
+Head north on Chartiers Ave toward Hillsboro St
+131 ft
+Turn right at Hillsboro St
+128 ft
+Turn left onto Sheraden Blvd
+0.1 mi
+Turn right onto Sherwood Ave
+410 ft
+Turn left onto Zephyr Ave
+243 ft
+Turn right onto Minton St
+0.1 mi
+Turn left onto Stafford St
+0.3 mi
+Turn right onto Stadium St
+249 ft
+Turn left onto Radcliffe St
+Destination will be on the left
+89 ft
+
+(40.4610847, -80.05442449999998)
+Head northwest on Radcliffe St toward Maple St
+112 ft
+Turn left onto Maple St
+262 ft
+Maple St turns slightly right and becomes Stafford St
+0.2 mi
+Turn right onto Stanhope St
+0.2 mi
+Turn left onto W Carson St
+312 ft
+
+(40.46491839999999, -80.05353500000001)
+Head southeast on W Carson St toward Stanhope St
+0.3 mi
+Continue straight to stay on W Carson St
+0.8 mi
+Turn right onto Corliss St/Corliss Tunnel
+Destination will be on the left
+253 ft
+
+(40.4525046, -80.04014410000002)
+Head northeast on Corliss St/Corliss Tunnel toward W Carson St
+Continue to follow Corliss St
+253 ft
+Turn right onto W Carson St
+Destination will be on the left
+0.2 mi
+
+(40.4503063, -80.03618069999999)
+Head southeast on W Carson St
+0.4 mi
+Slight right
+0.4 mi
+Slight right onto W Carson St
+0.5 mi
+Slight right to merge onto I-376 E
+0.3 mi
+
+(40.4389327, -80.0111422)
+Head northeast on I-376 E
+315 ft
+Take the I-279 exit on the left
+164 ft
+Keep left to continue toward I-279
+0.1 mi
+Keep left to continue toward I-279
+348 ft
+Continue onto I-279
+0.2 mi
+Take the exit on the left toward Reedsdale St
+0.1 mi
+Keep left to continue on Exit 1B, follow signs for North Shore and merge onto Reedsdale St
+0.5 mi
+Turn right at the 1st cross street onto Allegheny Ave
+482 ft
+Merge onto I-279 S via the ramp to I-376 E/Ft Pitt Bridge/Airport Monroeville
+Destination will be on the right
+0.8 mi
+
+(40.4443354, -80.00924270000002)
+Head south on I-279 S
+240 ft
+Keep right to stay on I-279 S
+0.1 mi
+Take the Fort Pitt Bridge exit
+0.2 mi
+Continue onto I-279 S
+108 ft
+Merge onto I-376 W
+0.1 mi
+Keep left to stay on I-376 W
+1.3 mi
+Take exit 69A for US-19 S/Banksville Rd
+0.1 mi
+Merge onto US-19 S
+197 ft
+Slight right onto Banksville Rd (signs for Banksville Road/Mt Lebanon)
+1.2 mi
+Keep right to continue on Banksville Ave
+253 ft
+Turn left onto Wenzell Ave
+33 ft
+
+(40.4071516, -80.03434520000002)
+Head southeast on Wenzell Ave toward Banksville Rd
+39 ft
+Turn left at the 1st cross street onto Banksville Rd
+0.2 mi
+Turn right onto Coast Ave
+0.5 mi
+Turn left onto Fallowfield Ave
+0.1 mi
+Turn right at the 1st cross street onto Hampshire Ave
+0.1 mi
+Turn left at the 2nd cross street onto Cape May Ave
+Destination will be on the right
+226 ft
+
+(40.4111597, -80.0223082)
+Head northwest on Cape May Ave/Plum Way toward Dagmar Ave
+302 ft
+Slight right onto Dagmar Ave
+0.3 mi
+Turn right onto Crane Ave
+Destination will be on the left
+0.4 mi
+
+(40.41701339999999, -80.01498930000002)
+Head east on Crane Ave toward Saw Mill Run Blvd
+105 ft
+Turn left at the 1st cross street onto Saw Mill Run Blvd
+0.7 mi
+Turn right onto Woodruff St
+0.5 mi
+Slight left onto Merrimac St
+0.4 mi
+Continue straight onto P J McArdle Roadway
+203 ft
+
+(40.4354799, -80.01231230000002)
+Head northwest on P J McArdle Roadway
+98 ft
+Keep right to continue on Grandview Ave
+0.7 mi
+Turn left onto Shaler St
+0.6 mi
+Continue onto Minnotte Square
+180 ft
+Turn right onto McKnight St
+Destination will be on the left
+0.1 mi
+
+(40.4339102, -80.03085169999997)
+Head southeast on McKnight St toward Minnotte Square
+0.1 mi
+Turn right onto Minnotte Square
+82 ft
+
+(40.4326804, -80.02985839999997)
+Head southwest on Minnotte Square toward Woodville Ave
+62 ft
+Turn left onto Woodville Ave
+0.2 mi
+Slight right onto US-19 S
+0.4 mi
+Take the Interstate 376 W ramp to Carnegie Airport
+0.1 mi
+Merge onto I-376 W
+1.0 mi
+Take exit 67 toward Crafton
+0.1 mi
+Turn left onto Mansfield Ave
+0.1 mi
+Turn right onto School St
+0.5 mi
+School St turns slightly left and becomes Baldwick Rd
+59 ft
+
+(40.4266149, -80.05714669999998)
+Head west on Baldwick Rd
+0.1 mi
+
+(40.4267062, -80.0598645)
+Head west on Baldwick Rd toward Pensdale St/Steen St
+0.1 mi
+
+(40.4271691, -80.06201369999997)
+Head northwest on Baldwick Rd toward Pensdale St/Steen St
+394 ft
+Turn left onto Pensdale St/Steen St
+272 ft
+
+(40.4273953, -80.06376549999999)
+Head northwest on Pensdale St/Steen St toward Crafton Blvd
+289 ft
+
+(40.4280268, -80.06437829999999)

@@ -1,0 +1,501 @@
+Trip duration: 1 hrs 55 min 
+Trip length: 66 km (41.2 miles)
+
+
+(40.4557968, -79.96586070000001)
+Head southwest on Bigelow Blvd toward Herron Ave
+33 ft
+Sharp right onto Herron Ave
+49 ft
+Turn left onto Paulowna St
+0.2 mi
+Paulowna St turns slightly right and becomes 30th St
+404 ft
+Turn left onto Brereton St
+0.2 mi
+Turn right onto 28th St Bridge
+194 ft
+
+(40.4559818, -79.97335829999997)
+Head northwest on 28th St Bridge toward 28th St
+0.1 mi
+Sharp right onto Liberty Ave
+0.5 mi
+Turn right onto 33rd Street
+Destination will be on the left
+0.1 mi
+
+(40.4602873, -79.96644529999998)
+Head west on 33rd Street toward Liberty Ave
+0.1 mi
+Turn left onto Liberty Ave
+0.2 mi
+Turn right onto 31st St
+282 ft
+Keep left to continue on 31st St/William Raymond Promenade Memorial Bridge
+Continue to follow William Raymond Promenade Memorial Bridge
+Destination will be on the right
+0.3 mi
+
+(40.462997, -79.97595489999998)
+Head northwest on 31st St Bridge/William Raymond Promenade Memorial Bridge toward River Ave
+0.2 mi
+Turn left onto River Ave
+154 ft
+Turn left onto 30th St Bridge
+Destination will be on the left
+180 ft
+
+(40.46396439999999, -79.9790956)
+Head northwest on 30th St Bridge toward River Ave
+180 ft
+
+(40.4642071, -79.97966810000003)
+Head northeast on River Ave toward 31st St Bridge/William Raymond Promenade Memorial Bridge
+154 ft
+Turn left onto Rialto St
+0.1 mi
+
+(40.4657026, -79.9811762)
+Head southeast on Rialto St
+466 ft
+Continue onto 31st St Bridge (signs for Pennsylvania 28)
+164 ft
+Turn left onto the Pennsylvania 28 ramp
+0.2 mi
+Merge onto PA-28 N
+0.5 mi
+Take exit 3A on the left for 40th St Bridge
+0.1 mi
+Continue onto 40th St Bridge
+Destination will be on the left
+0.2 mi
+
+(40.4727652, -79.9686365)
+Head northwest on 40th St Bridge toward E Ohio St
+0.2 mi
+Turn left onto the Pennsylvania 28 S ramp
+0.2 mi
+Merge onto PA-28 S
+1.5 mi
+Take exit 1B for East Ohio Street toward Interstate 279
+125 ft
+
+(40.4562534, -79.99129470000003)
+Head west on Exit 1B
+0.2 mi
+Turn left onto Chestnut St
+Destination will be on the left
+282 ft
+
+(40.4546004, -79.9943394)
+Head southeast on Chestnut St toward N Canal St
+0.1 mi
+Continue onto 16th St/David McCullough Bridge
+0.2 mi
+
+(40.4515097, -79.99065589999998)
+Head northwest on 16th St/David McCullough Bridge toward Progress St
+0.2 mi
+Continue onto Chestnut St
+0.1 mi
+Turn left onto E Ohio St
+0.2 mi
+Turn left
+194 ft
+Merge onto I-279 S via the ramp on the left to N Canal St/PA-28 N
+1.1 mi
+Take exit 1A on the left toward 10th St Bypass
+135 ft
+Keep left at the fork, follow signs for Convention Center/Strip District
+0.1 mi
+Continue onto 10th St Bypass
+105 ft
+
+(40.44345850000001, -80.00604779999998)
+Head east on 10th St Bypass toward Fort Duquesne Blvd
+0.4 mi
+Continue onto Fort Duquesne Blvd
+0.1 mi
+Turn right onto 10th St
+0.1 mi
+Turn left toward 10th St
+72 ft
+Turn left onto 10th St
+0.1 mi
+Turn left onto Fort Duquesne Blvd
+0.1 mi
+Turn left to stay on Fort Duquesne Blvd
+328 ft
+Turn right onto Rachel Carson Bridge
+Destination will be on the left
+0.1 mi
+
+(40.4466194, -79.99970989999997)
+Head north on Rachel Carson Bridge toward Isabella St
+0.1 mi
+Turn left onto Isabella St
+443 ft
+Turn left onto 7th St/Andy Warhol Bridge
+Destination will be on the right
+0.1 mi
+
+(40.4460111, -80.00135660000001)
+Head south on 7th St/Andy Warhol Bridge toward Three Rivers Heritage Trail
+0.1 mi
+Turn right onto Fort Duquesne Blvd
+0.1 mi
+Turn right onto 6th St Bridge/Roberto Clemente Bridge
+Destination will be on the left
+0.1 mi
+
+(40.4456086, -80.0033191)
+Head south on 6th St Bridge/Roberto Clemente Bridge toward Three Rivers Heritage Trail
+0.1 mi
+Turn right onto Fort Duquesne Blvd
+0.1 mi
+Turn left onto Stanwix St
+0.2 mi
+Continue straight to stay on Stanwix St
+0.2 mi
+
+(40.4384688, -80.00583499999999)
+Head south on Stanwix St toward Fort Pitt Blvd
+72 ft
+Stanwix St turns left and becomes Fort Pitt Blvd
+289 ft
+
+(40.4379291, -80.00488380000002)
+Head southeast on Fort Pitt Blvd toward Market St
+0.1 mi
+Keep left to stay on Fort Pitt Blvd
+335 ft
+
+(40.4368845, -80.00190029999999)
+Head southeast on Fort Pitt Blvd toward Smithfield St
+0.1 mi
+
+(40.4362011, -80.00031059999998)
+Head southeast on Fort Pitt Blvd
+305 ft
+Continue onto Grant St
+472 ft
+Turn right onto Boulevard of the Allies
+Destination will be on the left
+0.1 mi
+
+(40.4361662, -79.99584270000003)
+Head southeast on Boulevard of the Allies
+223 ft
+Take the Liberty Bridge ramp to US-19/PA-51
+0.1 mi
+Merge onto Crosstown Blvd
+0.1 mi
+Continue onto Liberty Bridge
+Destination will be on the right
+30 ft
+
+(40.432843, -79.9966422)
+Head northeast on Liberty Bridge toward Crosstown Blvd
+0.1 mi
+Take the exit toward Interstate 376 E/Monroeville
+0.1 mi
+Turn right onto Boulevard of the Allies (signs for I-376 E/Monroeville)
+1.8 mi
+Turn left onto Craft Ave
+180 ft
+Turn left onto Craft Pl
+167 ft
+Turn right at the 1st cross street onto Boulevard of the Allies
+0.5 mi
+Take the I-376 W ramp to Downtown
+46 ft
+
+(40.4369144, -79.97251589999996)
+Head west toward I-376 W
+0.2 mi
+Merge onto I-376 W
+1.5 mi
+
+(40.43730530000001, -80.00269150000003)
+Head south toward Fort Pitt Blvd
+52 ft
+Turn left onto Fort Pitt Blvd
+0.1 mi
+Turn right at the 1st cross street onto Smithfield St Bridge
+0.1 mi
+
+(40.4350027, -80.002047)
+Head southwest on Smithfield St Bridge
+0.1 mi
+Slight left to stay on Smithfield St Bridge
+482 ft
+Turn left onto E Carson St
+0.2 mi
+Slight right onto Arlington Ave
+354 ft
+Turn right onto E Sycamore St
+466 ft
+
+(40.4305299, -80.002001)
+Head east on E Sycamore St toward Arlington Ave
+466 ft
+Turn right onto Arlington Ave
+0.1 mi
+Turn left onto P J McArdle Roadway
+Destination will be on the left
+0.3 mi
+
+(40.4277805, -79.99281430000002)
+Head east on P J McArdle Roadway toward S 9th St
+0.2 mi
+Turn right onto S 10th St
+226 ft
+S 10th St turns left and becomes Freyburg St
+0.1 mi
+Turn right onto S 12th St
+Destination will be on the right
+0.1 mi
+
+(40.4256687, -79.9855508)
+Head north on S 12th St toward Breed St
+0.1 mi
+Turn left onto Bradish St
+0.1 mi
+Turn right onto S 10th St
+33 ft
+Turn left onto P J McArdle Roadway
+Destination will be on the left
+0.5 mi
+
+(40.4290461, -79.99741080000001)
+Head northwest on P J McArdle Roadway toward Arlington Ave
+Destination will be on the left
+0.3 mi
+
+(40.4304058, -80.0023928)
+Head southeast on P J McArdle Roadway
+0.2 mi
+Turn right onto Liberty Tunnel
+1.2 mi
+Continue onto W Liberty Ave
+190 ft
+Take the Pennsylvania 51 S ramp to Uniontown
+0.1 mi
+Merge onto Saw Mill Run Blvd
+0.3 mi
+Turn right onto Timberland Ave
+184 ft
+
+(40.4103747, -80.0062795)
+Head northeast on Timberland Ave toward Saw Mill Run Blvd
+184 ft
+Turn right onto Saw Mill Run Blvd
+0.3 mi
+Turn right onto Ensign Ave
+75 ft
+
+(40.4061452, -80.00387360000002)
+Head northeast on Ensign Ave toward Saw Mill Run Blvd
+75 ft
+Turn right onto Saw Mill Run Blvd
+0.3 mi
+Turn right onto Edgebrook Ave
+102 ft
+
+(40.4020217, -80.0010886)
+Head east on Edgebrook Ave toward Saw Mill Run Blvd
+102 ft
+Turn right at the 1st cross street onto Saw Mill Run Blvd
+Destination will be on the right
+0.6 mi
+
+(40.3944866, -79.99733950000001)
+Head south on Saw Mill Run Blvd toward Midwood Ave
+0.9 mi
+Continue straight to stay on Saw Mill Run Blvd
+Destination will be on the right
+141 ft
+
+(40.3816182, -79.99574619999999)
+Head southeast on Saw Mill Run Blvd toward Fairhaven Rd
+0.1 mi
+Keep right to continue on Fairhaven Rd
+367 ft
+
+(40.378921, -79.99374209999996)
+Head south on Fairhaven Rd toward Stewart Ave
+220 ft
+Fairhaven Rd turns slightly right and becomes Provost Rd
+0.1 mi
+Turn right onto Arcata St
+125 ft
+
+(40.3767599, -79.9945447)
+Head east on Arcata St toward Provost Rd
+125 ft
+Turn left onto Provost Rd
+0.1 mi
+Provost Rd turns right and becomes Stewart Ave
+217 ft
+Turn left onto Saw Mill Run Blvd
+0.1 mi
+Slight left to stay on Saw Mill Run Blvd
+0.4 mi
+Turn right onto Maytide St
+0.6 mi
+Turn left onto Biscayne Dr
+0.2 mi
+Continue onto Becks Run Rd
+2.0 mi
+Slight left onto Bajo St
+0.1 mi
+Slight left onto Parkwood Rd
+0.3 mi
+Continue onto Eisel St
+256 ft
+
+(40.4123417, -79.96844010000001)
+Head south on Eisel St toward Parkwood Rd
+256 ft
+Continue onto Parkwood Rd
+0.3 mi
+Turn left onto Bajo St
+0.1 mi
+Slight left onto Becks Run Rd
+0.4 mi
+Turn left onto E Carson St
+1.0 mi
+Slight left onto Sarah St
+0.1 mi
+Turn left onto Steve Seventy St
+325 ft
+Turn right onto Mary Jane St
+0.1 mi
+Slight right onto Mary St
+292 ft
+Turn left onto S 27th St
+210 ft
+Turn right onto Josephine St
+79 ft
+Turn left onto Barry St
+0.1 mi
+Barry St turns right and becomes Mission St
+0.2 mi
+
+(40.4232261, -79.97431919999997)
+Head west on Mission St
+0.2 mi
+Turn right onto S 18th St
+0.2 mi
+Sharp right onto Josephine St
+0.2 mi
+Turn right at the 1st cross street onto S 21st St
+492 ft
+
+(40.4236051, -79.97680160000004)
+Head northeast on S 21st St toward Josephine St
+0.3 mi
+Turn right onto E Carson St
+0.1 mi
+Turn left onto Birmingham Bridge
+0.4 mi
+
+(40.4333631, -79.9735197)
+Head north on Birmingham Bridge
+0.3 mi
+Turn left onto Fifth Ave
+0.1 mi
+Turn left onto Moultrie St
+292 ft
+Turn left onto Forbes Ave
+276 ft
+Turn right onto Brady St (signs for S Side)
+0.1 mi
+Turn right onto Second Avenue
+Destination will be on the left
+0.5 mi
+
+(40.4350633, -79.98281850000001)
+Head west on Second Avenue toward S 10th St/Armstrong Tunnel
+0.4 mi
+Turn left onto S 10th St Bridge/Phillip Murray Bridge
+Destination will be on the right
+0.1 mi
+
+(40.4326143, -79.9891725)
+Head north on S 10th St Bridge/Phillip Murray Bridge toward S 10th St
+0.1 mi
+Continue onto Armstrong Tunnel
+0.3 mi
+Turn right onto Forbes Ave
+262 ft
+Turn left onto Chatham Square
+285 ft
+Continue onto Washington Pl
+0.2 mi
+Turn right onto Bigelow Blvd
+52 ft
+Slight right onto Bedford Ave (signs for I-579 S/I-279/I-376/Monroeville/Liberty Bridge/Ft Pitt Bridge)
+384 ft
+Turn left onto I-579 HOV N
+Parts of this road may be closed at certain times or days
+0.6 mi
+
+(40.4498144, -79.99328129999998)
+Head northwest on I-579 HOV N
+May be closed at certain times or days
+Destination will be on the left
+0.5 mi
+
+(40.456508, -79.9980946)
+Head north on I-579 HOV N
+May be closed at certain times or days
+Destination will be on the left
+226 ft
+
+(40.4571012, -79.99831410000002)
+Head north on I-579 HOV N
+May be closed at certain times or days
+0.1 mi
+Merge onto I-279 HOV
+May be closed at certain times or days
+1.3 mi
+
+(40.4767338, -80.00761729999999)
+Head south on I-279 HOV
+May be closed at certain times or days
+0.3 mi
+
+(40.4723185, -80.00494879999997)
+Head southwest on Swindell Bridge toward Hazelton St
+0.1 mi
+Continue onto N Charles St
+190 ft
+
+(40.4711404, -80.0079078)
+Head west on N Charles St toward Perrysville Ave
+200 ft
+Turn right at the 1st cross street onto Perrysville Ave
+0.4 mi
+Turn right onto Milroy St
+440 ft
+Turn right to stay on Milroy St
+276 ft
+Sharp right to stay on Milroy St
+0.2 mi
+Turn left onto East St
+0.5 mi
+
+(40.4830914, -80.00773019999997)
+Head west on East St toward Venture St
+0.2 mi
+Turn right to merge onto I-279 S toward Downtown
+3.5 mi
+Keep right to stay on I-279 S
+0.1 mi
+Take the exit on the left toward Downtown/I-376 E/Monroeville
+Destination will be on the left
+102 ft
+
+(40.4415086, -80.00900089999999)

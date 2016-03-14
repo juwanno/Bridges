@@ -1,0 +1,486 @@
+Trip duration: 2 hrs 20 min 
+Trip length: 72 km (45.3 miles)
+
+
+(40.3799583, -79.934684)
+Head northwest on Corley St toward Calera St
+15 m
+Turn right onto Calera St
+0.4 km
+
+(40.3828928, -79.93294100000003)
+Head north on Calera St
+74 m
+
+(40.3835573, -79.93285459999998)
+Head south on Calera St toward Corley St
+0.5 km
+Turn right onto Baldwin Rd
+Destination will be on the right
+0.9 km
+
+(40.3877697, -79.93258229999998)
+Head north on Baldwin Rd toward Glass Run Rd
+0.2 km
+Turn left onto Glass Run Rd
+44 m
+Turn right at the 1st cross street onto PA-885 N
+56 m
+Take the Pennsylvania 837 N/Carson Street ramp
+0.4 km
+Continue onto E Carson St
+2.8 km
+Turn left onto Becks Run Rd
+0.6 km
+Slight right onto Bajo St
+0.1 km
+
+(40.4096963, -79.96363489999999)
+Head northeast on Bajo St toward Becks Run Rd
+0.1 km
+Slight left onto Becks Run Rd
+0.6 km
+Turn right onto E Carson St
+2.9 km
+Keep left at the fork, follow signs for PA-837 S/PA-885 N/Homestead/Glenwood Bridge and merge onto PA-837 S/PA-885 N
+0.3 km
+Keep left to continue on PA-885 N/Riverton St
+Continue to follow PA-885 N
+Destination will be on the right
+0.6 km
+
+(40.3976366, -79.93531259999997)
+Head north on Glenwood Bridge toward Second Avenue
+0.2 km
+Continue onto Second Avenue
+1.1 km
+Turn left onto E Elizabeth St
+81 m
+
+(40.4069355, -79.94416509999996)
+Head east on W Elizabeth St toward Second Avenue
+81 m
+Turn left at the 1st cross street onto Second Avenue
+0.5 km
+Continue onto Irvine St
+1.6 km
+Turn left onto Greenfield Ave
+91 m
+Greenfield Ave turns right and becomes Second Avenue
+0.1 km
+Turn right onto Swinburne St
+36 m
+
+(40.426115, -79.953443)
+Head southwest on Swinburne St
+19 m
+
+(40.42601459999999, -79.9536276)
+Head west on Swinburne St toward Second Avenue
+17 m
+Turn right onto Second Avenue
+0.6 km
+Turn left onto Hot Metal Bridge
+0.5 km
+Continue onto Hot Metal St
+Destination will be on the right
+27 m
+
+(40.4270018, -79.96270279999999)
+Head southwest on Hot Metal St toward Tunnel Blvd
+19 m
+Turn right onto Tunnel Blvd
+0.3 km
+Turn right onto S 27th St
+16 m
+
+(40.4286752, -79.96526159999996)
+Head southwest on S 27th St toward Tunnel Blvd
+16 m
+Turn left onto Tunnel Blvd
+0.1 km
+Turn left onto S 28th St
+16 m
+
+(40.4278165, -79.96396379999999)
+Head northeast on S 28th St toward S Water St
+15 m
+Turn right onto S Water St
+0.1 km
+Turn left onto Hot Metal Bridge
+0.2 km
+
+(40.4285258, -79.96023989999998)
+Head northeast on Hot Metal Bridge toward Second Avenue
+0.3 km
+Turn right onto Second Avenue
+0.7 km
+Second Avenue turns slightly left and becomes Greenfield Ave
+30 m
+
+(40.4248911, -79.95273530000003)
+Head east on Greenfield Ave
+47 m
+Slight left to stay on Greenfield Ave
+0.2 km
+Turn left onto Frazier St
+0.1 km
+
+(40.4264987, -79.95036190000002)
+Head northwest on Frazier St toward Swinburne St
+0.1 km
+Frazier St turns slightly right and becomes Swinburne St
+0.7 km
+Turn right onto Dawson St
+0.8 km
+Dawson St turns left and becomes S Bouquet St
+0.2 km
+Sharp right onto Joncaire St
+0.3 km
+Slight left onto Boundary St
+0.5 km
+Continue onto S Neville St
+7 m
+
+(40.4445236, -79.94674420000001)
+Head southwest on S Neville St
+7 m
+Continue onto Boundary St
+0.5 km
+Slight right onto Joncaire St
+0.3 km
+Slight right onto S Bouquet St
+66 m
+Turn right onto Roberto Clemente Dr
+0.2 km
+Continue onto Schenley Drive
+Destination will be on the left
+0.4 km
+
+(40.4412913, -79.94917650000002)
+Head southeast on Schenley Drive toward Frew St
+0.4 km
+Continue onto Panther Hollow Rd
+Destination will be on the left
+0.2 km
+
+(40.43713839999999, -79.94679280000003)
+Head south on Panther Hollow Rd
+0.1 km
+Take the ramp to Boulevard of the Allies
+0.1 km
+Continue onto Boulevard of the Allies
+Destination will be on the left
+25 m
+
+(40.4350334, -79.94731309999997)
+Head northeast on Boulevard of the Allies toward Overlook Dr
+Destination will be on the left
+65 m
+
+(40.4353489, -79.94664239999997)
+Head west on Panther Hollow Rd toward Boulevard of the Allies
+43 m
+Continue onto Boulevard of the Allies
+0.3 km
+
+(40.4344227, -79.95013540000002)
+Head west on Boulevard of the Allies/Charles Anderson Bridge toward Parkview Ave
+Continue to follow Boulevard of the Allies
+1.1 km
+Turn left onto Hamlet St
+0.2 km
+Turn right onto Lawn St
+0.2 km
+
+(40.4354221, -79.96555219999999)
+Head northwest on Lawn St toward Ophelia St
+35 m
+Lawn St turns sharply right and becomes Ophelia St
+0.2 km
+Turn left onto Hamlet St
+72 m
+Turn right onto Boulevard of the Allies
+0.6 km
+Turn right onto Bates St
+Destination will be on the left
+0.5 km
+
+(40.4313862, -79.95907790000001)
+Head northeast on Bates St toward Hodge St
+39 m
+Turn right to merge onto I-376 E toward Monroeville
+Destination will be on the left
+1.1 km
+
+(40.4278341, -79.94903579999999)
+Head east on I-376 E
+Destination will be on the right
+1.0 km
+
+(40.42854, -79.93785359999998)
+Head east on I-376 E
+0.6 km
+Take exit 74 toward Squirrel Hill/Homestead
+0.2 km
+Merge onto Beechwood Blvd
+1.0 km
+Continue straight onto Browns Hill Rd
+0.8 km
+Turn left onto Parkview Blvd
+80 m
+Turn right onto Old Browns Hill Rd
+0.6 km
+Turn left onto Second Ave
+Destination will be on the right
+24 m
+
+(40.4152123, -79.91573640000001)
+Head southwest on Second Ave toward Old Browns Hill Rd
+24 m
+Turn right onto Old Browns Hill Rd
+0.6 km
+Turn left onto Parkview Blvd
+80 m
+Turn left onto Browns Hill Rd
+0.2 km
+Continue onto Homestead Grays Bridge
+Destination will be on the left
+0.3 km
+
+(40.41063159999999, -79.91848119999997)
+Head northwest on Homestead Grays Bridge
+0.3 km
+Continue onto Browns Hill Rd
+1.0 km
+Merge onto Beechwood Blvd
+Destination will be on the right
+0.8 km
+
+(40.4269221, -79.9269607)
+Head northwest on Beechwood Blvd
+0.7 km
+Turn right to merge onto I-376 E toward Monroeville
+Destination will be on the left
+2.5 km
+
+(40.4255452, -79.9061633)
+Head east on I-376 E
+0.7 km
+Take exit 77 toward Edgewood
+0.7 km
+Keep left, follow signs for Braddock Ave and merge onto S Braddock Ave
+1.3 km
+Turn left onto Forbes Ave
+0.2 km
+
+(40.4394986, -79.9003386)
+Head west on Forbes Ave toward S Dallas Ave
+1.1 km
+Turn right onto S Dallas Ave
+1.6 km
+Turn left onto Penn Ave
+0.5 km
+Turn right onto Fifth Ave
+0.6 km
+Continue onto Washington Blvd
+0.2 km
+Turn left onto Shetland St
+0.2 km
+Turn right onto Lincoln Ave
+Destination will be on the right
+0.2 km
+
+(40.4626607, -79.90555219999999)
+Head northeast on Lincoln Ave toward Atwell St
+0.4 km
+Turn left onto Deary St
+0.7 km
+Turn left onto Larimer Ave
+42 m
+
+(40.4677092, -79.90762510000002)
+Head west on Larimer Ave toward Hooker St
+0.1 km
+
+(40.4673433, -79.9089864)
+Head west on Larimer Ave toward Hooker St
+0.8 km
+Turn right onto E Liberty Blvd
+Destination will be on the right
+0.2 km
+
+(40.464745, -79.91887250000002)
+Head northwest on E Liberty Blvd toward Negley Run Blvd
+85 m
+Turn right onto Negley Run Blvd
+Destination will be on the left
+0.4 km
+
+(40.4669709, -79.91601880000002)
+Head east on Negley Run Blvd toward Washington Blvd
+0.7 km
+Turn left at the 1st cross street onto Washington Blvd
+1.6 km
+Turn left to stay on Washington Blvd
+0.3 km
+Take the Highland Park Bridge exit toward Pennsylvania 28
+0.2 km
+Continue onto Highland Park Bridge
+0.8 km
+Keep right at the fork, follow signs for Sharpsburg and merge onto Freeport Rd
+0.5 km
+Merge onto Highland Park Bridge via the ramp to Pennsylvania 8
+Destination will be on the left
+0.7 km
+
+(40.4890717, -79.91219639999997)
+Head south on Highland Park Bridge
+0.3 km
+Keep right at the fork, follow signs for Pennsylvania 8 N/Butler Street and merge onto Butler St
+2.1 km
+Turn right onto 62nd St Bridge
+0.4 km
+Take the exit on the left toward PA-28 N/Sharpsburg
+0.2 km
+Continue onto Bridge St
+0.1 km
+Turn right toward N Main St
+0.1 km
+Turn left onto N Main St
+0.2 km
+Sharp left onto Bridge St
+0.5 km
+Merge onto 1st St/62nd St Bridge/Bridge St/Senator Robert D Fleming Bridge
+Destination will be on the right
+0.1 km
+
+(40.49102910000001, -79.93798119999997)
+Head south on 1st St/62nd St Bridge/Bridge St/Senator Robert D Fleming Bridge
+Continue to follow 62nd St Bridge
+0.3 km
+Turn left onto Butler St
+1.6 km
+
+(40.4875741, -79.91902600000003)
+Head east on Butler St toward One Wild Pl
+84 m
+Turn right onto One Wild Pl
+0.6 km
+
+(40.4831237, -79.9198915)
+Head southeast on One Wild Pl
+0.3 km
+Turn right to stay on One Wild Pl
+0.2 km
+Turn left onto Bunkerhill St
+0.3 km
+Turn left onto N Highland Ave
+63 m
+Slight right onto Reservoir Dr
+0.8 km
+Turn left to stay on Reservoir Dr
+0.1 km
+Turn left to stay on Reservoir Dr
+0.3 km
+
+(40.4811336, -79.91736609999998)
+Head southwest on Reservoir Dr toward Reservoir Drive Walk
+0.3 km
+Slight right onto N Highland Ave
+1.5 km
+Turn left onto E Liberty Blvd
+0.4 km
+
+(40.4646256, -79.91894589999998)
+Head southeast on E Liberty Blvd toward Larimer Ave
+0.2 km
+Turn right at the 1st cross street onto Larimer Ave
+0.4 km
+Turn right onto Broad St
+0.1 km
+Turn left at the 1st cross street onto Centre Ave
+0.1 km
+Turn left onto Penn Ave
+0.2 km
+
+(40.46000009999999, -79.92095970000003)
+Head northwest on Penn Ave
+0.2 km
+Turn left onto Centre Ave
+0.2 km
+Turn left onto S Highland Ave
+Destination will be on the right
+0.1 km
+
+(40.4590194, -79.92505540000002)
+Head north on S Highland Ave toward Spirit St
+0.1 km
+Turn left onto Centre Ave
+0.8 km
+Turn left onto S Negley Ave
+Destination will be on the right
+0.1 km
+
+(40.4562562, -79.9334412)
+Head southeast on S Negley Ave
+0.2 km
+Turn right onto Ellsworth Ave
+0.4 km
+Turn right onto S Aiken Ave
+0.1 km
+
+(40.453879, -79.93736480000001)
+Head northwest on S Aiken Ave toward Claybourne St
+0.2 km
+Turn left onto Centre Ave
+0.4 km
+
+(40.4545892, -79.94296800000001)
+Head west on Centre Ave toward Morewood Ave
+0.1 km
+Turn right onto Morewood Ave
+0.1 km
+Turn right at the 1st cross street onto Baum Blvd
+0.1 km
+
+(40.4552834, -79.9441511)
+Head west on Atherton Bridge/Baum Blvd toward Morewood Ave
+Continue to follow Baum Blvd
+0.1 km
+Turn right at the 1st cross street onto Morewood Ave
+0.3 km
+Turn right onto S Millvale Ave
+0.1 km
+
+(40.4569807, -79.9474768)
+Head south on S Millvale Ave toward Morewood Ave
+0.3 km
+Turn right onto Baum Blvd
+0.5 km
+Baum Blvd turns right and becomes N Craig St
+0.3 km
+Continue onto Bigelow Blvd
+0.2 km
+Turn right onto Bloomfield Bridge
+Destination will be on the left
+0.4 km
+
+(40.4612917, -79.95498329999998)
+Head northeast on Bloomfield Bridge toward Liberty Ave
+0.3 km
+Turn left onto Liberty Ave
+0.2 km
+Turn left onto Canoe Way
+53 m
+Turn left onto Ewing St
+0.2 km
+Sharp right onto the ramp to PA-380/Bigelow Blvd
+0.2 km
+Merge onto Bloomfield Bridge
+0.5 km
+Turn right onto Bigelow Blvd
+Destination will be on the left
+0.8 km
+
+(40.4557968, -79.96586070000001)
